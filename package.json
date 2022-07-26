@@ -8,16 +8,8 @@
     "start": "node dist/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/isakgranqvist2021/typescript-starter.git"
-  },
-  "author": "Isak Granqvist",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/isakgranqvist2021/typescript-starter/issues"
-  },
-  "homepage": "https://github.com/isakgranqvist2021/typescript-starter#readme",
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^3.3.0",
     "prettier": "^2.7.1",

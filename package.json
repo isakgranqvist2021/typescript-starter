@@ -4,6 +4,8 @@
   "description": "",
   "main": "main.js",
   "scripts": {
+    "dev": "tsc -W",
+    "start": "node dist/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
